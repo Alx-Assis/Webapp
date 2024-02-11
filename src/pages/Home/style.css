@@ -1,0 +1,29 @@
+.container{
+  display:flex;
+  width:360px;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+  background-color:blueviolet;
+  box-sizing: border-box;
+}
+
+.parcialBox{
+  display:flex;
+  width: 100%;
+  flex-direction:row;
+  justify-content:center;
+  align-items:center;
+  background-color:lightblue;
+  
+  
+}
+.p{
+  display:flex;
+  width: 120px;
+  heiht:50px;
+  background-color: #fff;
+}
+input{
+  width:25px
+}
